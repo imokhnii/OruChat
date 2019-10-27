@@ -5,3 +5,10 @@ C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\Jav
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.dll
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.pdb
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemblyReference.cache
+D:\MyChat)\OruChat\chat\JavascriptClient\bin\JavascriptClient.dll.config
+D:\MyChat)\OruChat\chat\JavascriptClient\bin\JavascriptClient.dll
+D:\MyChat)\OruChat\chat\JavascriptClient\bin\JavascriptClient.pdb
+D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemblyReference.cache
+D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csproj.CoreCompileInputs.cache
+D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.dll
+D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.pdb
