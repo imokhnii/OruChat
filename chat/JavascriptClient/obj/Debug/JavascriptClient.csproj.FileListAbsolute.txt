@@ -1,0 +1,7 @@
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\bin\JavascriptClient.dll.config
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\bin\JavascriptClient.dll
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\bin\JavascriptClient.pdb
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.dll
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.pdb
+C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemblyReference.cache

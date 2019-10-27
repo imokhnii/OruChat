@@ -1,0 +1,35 @@
+﻿body {
+    font: 20px arial;
+    color: azure;
+    text-align: center;
+    padding: 35px;
+    background-image: url(https://images.wallpaperscraft.ru/image/fon_pyatna_temnyy_tekstura_50628_1920x1080.jpg);
+    background-position: center;
+}
+
+input {
+    font: 15px arial;
+}
+
+#authorization {
+    margin: 10%;
+}
+
+#username {
+    text-align:center;
+    height: 15px;
+    width: 225px;
+}
+
+button {
+    background-image: url(https://images.wallpaperscraft.ru/image/fon_pyatna_temnyy_tekstura_50628_1920x1080.jpg); /*url(http://luxfon.com/large/201203/7243.jpg);*/
+    background-position: bottom;
+    border: none;
+    color: azure;
+    padding: 12px 30px;
+    margin: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
