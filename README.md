@@ -9,7 +9,7 @@ To start chatting you need to open two login pages in different tabs or browsers
 
 # Screenshots
 Login page:
-![LoginPage](https://user-images.githubusercontent.com/47922781/67854048-52e46f00-fb18-11e9-955a-450f5804fdfb.png)
+![image](https://user-images.githubusercontent.com/47922781/67855932-27638380-fb1c-11e9-9454-34c0ff47e4fc.png)
 User pages:
 ![image](https://user-images.githubusercontent.com/47922781/67855640-78bf4300-fb1b-11e9-9b1f-2c57241bf32a.png)
 ![image](https://user-images.githubusercontent.com/47922781/67855687-942a4e00-fb1b-11e9-8180-1c5c4d32c684.png)
