@@ -12,3 +12,10 @@ D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemb
 D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csproj.CoreCompileInputs.cache
 D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.dll
 D:\MyChat)\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.pdb
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\bin\JavascriptClient.dll.config
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\bin\JavascriptClient.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\bin\JavascriptClient.pdb
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemblyReference.cache
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\JavascriptClient\obj\Debug\JavascriptClient.pdb

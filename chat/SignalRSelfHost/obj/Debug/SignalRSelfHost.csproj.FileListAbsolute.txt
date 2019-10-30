@@ -24,3 +24,29 @@ C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\SignalRSelfHost\obj\Debug\Sign
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe.config
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe
 C:\Users\Ihor\Desktop\SignalR Self-Host Sample\C#\SignalRSelfHost\obj\Debug\SignalRSelfHost.exe
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe.config
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\SignalRSelfHost.exe
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\SignalRSelfHost.pdb
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Owin.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\System.Web.Cors.dll
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\obj\Debug\SignalRSelfHost.csprojAssemblyReference.cache
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\obj\Debug\SignalRSelfHost.csproj.CoreCompileInputs.cache
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\obj\Debug\SignalRSelfHost.csproj.CopyComplete
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\obj\Debug\SignalRSelfHost.exe
+C:\Users\Ihor\Desktop\Test\OruChat\chat\SignalRSelfHost\obj\Debug\SignalRSelfHost.pdb
