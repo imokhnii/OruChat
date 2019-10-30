@@ -6,3 +6,9 @@ There is a console server and a Javascript client that are split into two differ
 To try this chat you can run SignalRSelfHost(server) and JavascriptClient(client) in Visual Studio at the same time. 
 Start the server first, then the client.
 To start chatting you need to open two login pages in different tabs or browsers and sign in with different names.
+
+# Screenshots
+Login page:
+![LoginPage](https://user-images.githubusercontent.com/47922781/67854048-52e46f00-fb18-11e9-955a-450f5804fdfb.png)
+User pages:
+![FirstClient](https://user-images.githubusercontent.com/47922781/67854082-5b3caa00-fb18-11e9-8958-1f9e06d4bcd4.png)
