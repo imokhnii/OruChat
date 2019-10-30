@@ -11,5 +11,7 @@ To start chatting you need to open two login pages in different tabs or browsers
 Login page:
 ![LoginPage](https://user-images.githubusercontent.com/47922781/67854048-52e46f00-fb18-11e9-955a-450f5804fdfb.png)
 User pages:
-![FirstClient](https://user-images.githubusercontent.com/47922781/67854082-5b3caa00-fb18-11e9-8958-1f9e06d4bcd4.png)
-![SecondClient](https://user-images.githubusercontent.com/47922781/67854093-5e379a80-fb18-11e9-9d63-fa8be292c49d.png)
+![image](https://user-images.githubusercontent.com/47922781/67855640-78bf4300-fb1b-11e9-9b1f-2c57241bf32a.png)
+![image](https://user-images.githubusercontent.com/47922781/67855687-942a4e00-fb1b-11e9-8180-1c5c4d32c684.png)
+Server logs:
+![image](https://user-images.githubusercontent.com/47922781/67855753-b6bc6700-fb1b-11e9-8636-598a8246118e.png)
